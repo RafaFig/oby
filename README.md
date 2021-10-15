@@ -37,6 +37,7 @@
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [MySQL](https://www.mysql.com/)
 
 
 # Contribuição
