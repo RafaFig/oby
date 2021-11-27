@@ -1,7 +1,7 @@
 # <h1>Oby</h1>
 
 
-![Project Image](https://github.com/AChamone1/imagemoby))
+![Project Image](https://www.realizaengenharia.com.br/images/demo/projects/medium4.jpg))
 
 # Sobre o Projeto
 
