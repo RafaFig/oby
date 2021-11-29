@@ -1,14 +1,17 @@
 # <h1>Oby</h1>
 
 
-![Project Image](https://www.realizaengenharia.com.br/images/demo/projects/medium4.jpg))
+<img src ="https://i.ibb.co/sqLn6RN/Whats-App-Image-2021-11-27-at-16-18-39.jpg" >
 
 # Sobre o Projeto
 
 
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . . 
+<h4 align="left"> 
+	OBY
 </h4>
+<p>A Oby é uma startup, com o seu foco em atender a todos os gamers de diversos jogos! Nossa empresa tem como função fornecer as características de itens em todos os tipos de jogos.
+</p>
+<p>O  APP,  atende tanto como mobile e web, dentro da  plataforma teremos listas ordenadas e pesquisas inteligentes do item  em especifico, o app, é compatível com várias plataformas de jogos. </p>
 
 # Índice/Sumário
 
@@ -26,10 +29,14 @@
 
 - [x] **Cadastrar Usuário**
 - [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] **Criar conta**
+- [x] **Vincular contas**
+- [x] **Biblioteca**
+- [x] **Inventário**
+- [x] **Buscar itens**
+- [x] **Informações do item** 
+- [x] **Organizar itens**
+
 
 # Tecnologias Usadas
 
@@ -63,4 +70,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Agradecer a todos os autores que tornaram esse projeto realidade!
